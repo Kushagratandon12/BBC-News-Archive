@@ -8,16 +8,3 @@ The competition is evaluated using Accuracy as a metric.
 <div align="center">
   <img src="Embedding Projector.png"><br><br>
 </div>
-
-## FEW OF THE LABELS ARE SHOWN BELOW
-### Political Embedding Projector
-
-<div align="center">
-  <img src="Political.png" width='500' height='500'><br><br>
-</div>
-
-### Sports Embedding Projector
-
-<div align="center">
-  <img src="Sportz.png" width='500' height='500'><br><br>
-</div>
