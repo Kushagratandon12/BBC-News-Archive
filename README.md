@@ -2,9 +2,9 @@
 
 ## ALL THE BBC NEWS ARCHIVE ARE ANALYSED IN EMBEDDING PROJECTOR 
 Public dataset from the BBC comprised of 2225 articles, each labeled under one of 5 categories: business, entertainment, politics, sport or tech.
-The dataset is broken into 1490 records for training and 735 for testing. The goal will be to build a system that can accurately classify previously unseen news articles into the right category.
-The competition is evaluated using Accuracy as a metric.
+The dataset is broken into 1200 records for training and other for testing. The goal will be to build a system that can accurately classify previously unseen news articles into the right category.
+The following Model is then Analyzed Using Tensorflow Embedding Projector by making Vector , Meta_Data file and Uploading to Embedding Projector
 
 <div align="center">
-  <img src="Embedding Projector.png"><br><br>
+  <img src="Embedding Projector.png" alt ="Embedding Projector BBC NEWS Archive"><br><br>
 </div>
